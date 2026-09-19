@@ -63,6 +63,20 @@ user@security-lab:~$ neofetch --profile
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3 align="center"><a href="https://fahdbelhiba.github.io/projects">🏰 Purple Team Home Lab : Active Directory, Détection SOC & MITRE ATT&CK</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Architecture-Windows_Server_2022_AD_DS-0078D6?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blue_Team-Wazuh_SIEM_&_Sysmon-00F0FF?style=flat-square&logo=wazuh&logoColor=black" />
+        <img src="https://img.shields.io/badge/Red_Team-Atomic_Red_Team_&_Kali-EF4444?style=flat-square&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framework-MITRE_ATT&CK-F59E0B?style=flat-square" />
+      </p>
+      <p>
+        Environnement d'entreprise hybride pour l'administration <strong>Active Directory (CORP.LOCAL)</strong>, la télémétrie granulaire (Sysmon + journaux de sécurité), l'ingénierie de détection SOC via <strong>Wazuh SIEM</strong> et l'émulation d'adversaires (Kerberoasting T1558.003, Pass-the-Hash T1550.002, dump mémoire LSASS T1003.001).
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/ScaramouW/ble-android-security">📡 BLE Secure Pairing & Android Audit</a></h3>
       <p align="center">
