@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Typing Animation -->
-  <a href="https://fahdbelhiba.github.io">
+  <a href="https://fahdbelhiba.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Fahd+BELHIBA+%F0%9F%91%8B;Cybersecurity+%26+Security+Engineer;Master+IT4SSM+%40+INSA+Hauts-de-France;Application+Security+(AppSec)+%E2%80%A2+OWASP+Top+10;IoT+%26+BLE+Protocol+Hardening;IPv6+Security+%26+Cryptographic+Engineering" alt="Typing SVG" />
   </a>
 
@@ -11,8 +11,8 @@
 
   <!-- Quick Badges -->
   <p align="center">
-    <a href="https://fahdbelhiba.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-fahdbelhiba.github.io-00F0FF?style=for-the-badge&logo=astro&logoColor=0D1117" alt="Portfolio" />
+    <a href="https://fahdbelhiba.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-fahdbelhiba.vercel.app-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/fahd-belhiba-b6a669242/">
       <img src="https://img.shields.io/badge/LinkedIn-Fahd_Belhiba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,7 +20,7 @@
     <a href="mailto:belhibafahed@outlook.fr">
       <img src="https://img.shields.io/badge/Email-belhibafahed%40outlook.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://fahdbelhiba.github.io/about">
+    <a href="https://fahdbelhiba.vercel.app/about">
       <img src="https://img.shields.io/badge/Status-Open_for_Internship_(Mar_2027)-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
     </a>
   </p>
@@ -64,7 +64,7 @@ user@security-lab:~$ neofetch --profile
 <table>
   <tr>
     <td colspan="2">
-      <h3 align="center"><a href="https://fahdbelhiba.github.io/projects">🏰 Purple Team Home Lab : Active Directory, Détection SOC & MITRE ATT&CK</a></h3>
+      <h3 align="center"><a href="https://fahdbelhiba.vercel.app/projects">🏰 Purple Team Home Lab : Active Directory, Détection SOC & MITRE ATT&CK</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Architecture-Windows_Server_2022_AD_DS-0078D6?style=flat-square&logo=windows&logoColor=white" />
         <img src="https://img.shields.io/badge/Blue_Team-Wazuh_SIEM_&_Sysmon-00F0FF?style=flat-square&logo=wazuh&logoColor=black" />
@@ -141,8 +141,8 @@ user@security-lab:~$ neofetch --profile
 
 <div align="center">
 
-  <a href="https://fahdbelhiba.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=safari&logoColor=0D1117" alt="Website" />
+  <a href="https://fahdbelhiba.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/fahd-belhiba-b6a669242/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
